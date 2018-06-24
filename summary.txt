@@ -1,0 +1,399 @@
+Summary for /www/javadecompilers/app/public/data/24.06.18/70109d3c2bff896ad8737f79e9fd9df0/smule.jar
+Decompiled with CFR 0_123
+
+
+com.smule.android.ads.networks.AdColonyAdVendor
+----------------------------
+
+b(android.app.Activity )
+  Unable to fully structure code
+
+
+com.smule.android.debug.RequestRecorder
+----------------------------
+
+a(com.smule.android.debug.RequestRecorder$State )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.smule.android.facebook.MagicFacebook
+----------------------------
+
+a(java.lang.String boolean )
+  Loose catch block
+
+
+com.smule.android.logging.Log
+----------------------------
+
+a(int java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+com.smule.android.network.core.CookieStoreImpl
+----------------------------
+
+get(java.net.URI )
+  Unable to fully structure code
+
+
+com.smule.android.network.core.MagicCookieHandler
+----------------------------
+
+put(java.net.URI java.util.Map<java.lang.String, java.util.List<java.lang.String>> )
+  Unable to fully structure code
+
+
+com.smule.android.network.core.MagicNetwork
+----------------------------
+
+a(java.lang.String com.smule.android.network.core.NetworkUtils$ProgressListener )
+  Loose catch block
+
+
+com.smule.android.network.core.NetworkUtils
+----------------------------
+
+a(okhttp3.Response com.smule.android.network.core.NetworkUtils$ProgressListener )
+  Unable to fully structure code
+a(com.smule.android.network.core.MagicNetwork$StreamResponse java.io.OutputStream com.smule.android.network.core.NetworkUtils$ProgressListener )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 8[DOLOOP]
+
+
+com.smule.android.network.core.ParsedResponse
+----------------------------
+
+a(com.smule.android.network.core.NetworkResponse java.lang.Class<T> )
+  Loose catch block
+
+
+com.smule.android.network.managers.TracksManager
+----------------------------
+
+a(java.lang.Void[] )
+  Unable to fully structure code
+
+
+com.smule.android.ui.SNPImageView
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code
+
+
+com.smule.android.uploader.FileUploaderService
+----------------------------
+
+a(java.lang.String java.util.HashSet<java.lang.String> )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl33 : TryStatement: try { 4[TRYBLOCK]
+
+m()
+  Loose catch block
+run()
+  Loose catch block
+
+
+com.smule.android.utils.AutocompleteUtils
+----------------------------
+
+a(android.content.Context java.lang.String java.util.HashSet<java.lang.String> )
+  Unable to fully structure code
+b(android.content.Context java.lang.String )
+  Unable to fully structure code
+
+
+com.smule.android.utils.DiskUsageRunnable
+----------------------------
+
+a(java.io.File boolean java.io.FileFilter )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 5[SIMPLE_IF_TAKEN]
+
+
+com.smule.android.utils.ImageUtils
+----------------------------
+
+a(android.graphics.Bitmap int )
+  Loose catch block
+
+
+com.smule.android.utils.LocationUtils
+----------------------------
+
+a()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Statement already marked as first in another block
+
+
+com.smule.android.utils.MagicDevice
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+com.smule.android.utils.OperationLoader
+----------------------------
+
+handleMessage(android.os.Message )
+  Unable to fully structure code
+b()
+  Unable to fully structure code
+
+
+com.smule.chat.Chat
+----------------------------
+
+a(java.lang.Void[] )
+  Unable to fully structure code
+
+
+com.smule.chat.ChatConnectionManager
+----------------------------
+
+a(java.lang.Exception long )
+  Unable to fully structure code
+
+
+com.smule.chat.ChatManager
+----------------------------
+
+a(org.jivesoftware.smack.packet.Message )
+  Loose catch block
+
+
+com.smule.chat.ChatManagerPersistence
+----------------------------
+
+a(java.io.File )
+  Unable to fully structure code
+d(com.smule.chat.smerialization.Smerializable )
+  Unable to fully structure code
+
+
+com.smule.chat.GroupInfo
+----------------------------
+
+a(java.util.Collection<com.smule.android.network.models.AccountIcon> org.jivesoftware.smackx.muc.MUCAffiliation com.smule.chat.Completion<com.smule.chat.ChatStatus> )
+  Loose catch block
+
+
+com.smule.chat.SmuleMUCUserProvider
+----------------------------
+
+a(org.xmlpull.v1.XmlPullParser )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+a(org.xmlpull.v1.XmlPullParser int )
+  Unable to fully structure code
+
+
+com.smule.samples.player.SimPlayer
+----------------------------
+
+a(com.smule.samples.player.SimPlayerStateMachine$Command com.smule.android.core.parameter.KeyedParameter[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CASE]], but top level block is 1[TRYBLOCK]
+
+
+com.smule.singandroid.audio.AudioSystemStateMachine
+----------------------------
+
+a(com.smule.singandroid.audio.AudioSystemStateMachine$Command java.lang.Throwable )
+  Unable to fully structure code
+call()
+  Unable to fully structure code
+
+
+com.smule.singandroid.boost.BoostStateCommander
+----------------------------
+
+a(com.smule.singandroid.boost.BoostStateMachine$Command com.smule.android.core.parameter.KeyedParameter[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.smule.singandroid.chat.ChatDetailsFragment
+----------------------------
+
+L()
+  Unable to fully structure code
+
+
+com.smule.singandroid.chat.ConnectionStatusIndicator
+----------------------------
+
+b(java.lang.String com.smule.chat.ChatManager$ConnectionStatus long )
+  Unable to fully structure code
+
+
+com.smule.singandroid.chat.MessageCenterAdapter
+----------------------------
+
+a(com.smule.singandroid.chat.MessageCenterAdapter$ViewHolder int )
+  Unable to fully structure code
+
+
+com.smule.singandroid.chat.message_aggregation.AggregatedGroupStatusChatMessage
+----------------------------
+
+o()
+  Unable to fully structure code
+
+
+com.smule.singandroid.chat.message_views.ChatMessageGroupInviteBody
+----------------------------
+
+a(com.smule.chat.ChatMessage boolean com.smule.chat.Chat )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+
+
+com.smule.singandroid.customviews.NotificationsListView
+----------------------------
+
+c()
+  Unable to fully structure code
+
+
+com.smule.singandroid.customviews.SongbookSortSelector
+----------------------------
+
+b()
+  Unable to fully structure code
+
+
+com.smule.singandroid.customviews.SubscriptionPurchaseView
+----------------------------
+
+a(com.smule.android.songbook.SongbookEntry com.smule.android.logging.Analytics$PaywallType )
+  Unable to fully structure code
+setMode(com.smule.singandroid.customviews.SubscriptionPurchaseView$Mode )
+  Unable to fully structure code
+
+
+com.smule.singandroid.effectpanel.EffectPanelView
+----------------------------
+
+onTouch(android.view.View android.view.MotionEvent )
+  Unable to fully structure code
+a()
+  Unable to fully structure code
+
+
+com.smule.singandroid.FeedFragment
+----------------------------
+
+a(int int )
+  Unable to fully structure code
+
+
+com.smule.singandroid.FindFriendsModule
+----------------------------
+
+a(java.lang.Integer java.lang.Integer )
+  Unable to fully structure code
+
+
+com.smule.singandroid.hashtag.CustomLinkMovementMethod
+----------------------------
+
+a(int android.widget.TextView android.text.Spannable )
+  Unable to fully structure code
+
+
+com.smule.singandroid.list_items.PerformanceListEmptyListItem
+----------------------------
+
+a(int boolean java.lang.String android.view.View$OnClickListener com.smule.singandroid.profile.ProfileUserInfo$ColorSet )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.smule.singandroid.MasterActivity
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+com.smule.singandroid.mediaplaying.NowPlayingFragment
+----------------------------
+
+onClick(android.content.DialogInterface int )
+  Unable to fully structure code
+
+
+com.smule.singandroid.media_player_service.MediaNotificationController
+----------------------------
+
+onReceive(android.content.Context android.content.Intent )
+  Unable to fully structure code
+
+
+com.smule.singandroid.PhotoTakingActivity
+----------------------------
+
+onActivityResult(int int android.content.Intent )
+  Unable to fully structure code
+
+
+com.smule.singandroid.PhotoTakingFragment
+----------------------------
+
+onActivityResult(int int android.content.Intent )
+  Unable to fully structure code
+
+
+com.smule.singandroid.PostSongUpsellActivity
+----------------------------
+
+a(com.smule.singandroid.PostSongUpsellActivity$UserFlow )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+c(java.lang.String )
+  Unable to fully structure code
+
+
+com.smule.singandroid.profile.ProfileFragment
+----------------------------
+
+update(java.util.Observable java.lang.Object )
+  Unable to fully structure code
+f(com.smule.android.network.models.PerformanceV2 )
+  Unable to fully structure code
+onOptionsItemSelected(android.view.MenuItem )
+  Unable to fully structure code
+onScroll(android.widget.AbsListView int int int )
+  Unable to fully structure code
+
+
+com.smule.singandroid.profile.ProfileListView
+----------------------------
+
+a()
+  Unable to fully structure code
+
+
+com.smule.singandroid.registration.NewHandleFragment
+----------------------------
+
+onActivityResult(int int android.content.Intent )
+  Unable to fully structure code
+
+
+com.smule.singandroid.registration.WelcomeActivity
+----------------------------
+
+onStart()
+  Unable to fully structure code
+
+
+com.smule.singandroid.SettingsFragment
+----------------------------
+
+a(int com.smule.singandroid.task.UserUpdateTask$ErrorType )
+  Unable to fully structure code
+P()
+  Unable to fully structure code
+
+
+com.smule.singandroid.ShareActivity
+----------------------------
+
+f()
+  Unable to fully structure code
